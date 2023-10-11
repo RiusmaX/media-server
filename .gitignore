@@ -1,4 +1,5 @@
 */config/*
+!*/config/.gitkeep 
 .vscode/
-medias/tv/*
 medias/movies/*
+!*/*/.gitkeep
